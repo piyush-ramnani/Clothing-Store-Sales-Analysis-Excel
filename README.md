@@ -25,3 +25,8 @@ Data cleaning | Pivot tables | VLookup
 - The fastest way of checking this at a glance is by applying **filter** to all the columns and looking at the filter values.
 
 <img width="294" alt="Image" src="https://github.com/user-attachments/assets/787b4cd0-89e1-48a4-889f-b03578b3ef52" />
+
+- Replace the inconsistent data
+- Select the value that needs to be changed in the filter→ Select the column → CTRL + F to Replace
+    
+    ![Screenshot 2024-09-10 at 1.49.54 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d731ff91-d8ab-4a50-84c9-6c164bcf93c2/e21345e4-87e7-488e-bb31-bae6e389d054/Screenshot_2024-09-10_at_1.49.54_AM.png)
