@@ -24,4 +24,4 @@ Data cleaning | Pivot tables | VLookup
 - Check if all the columns have consistent data - Null, Duplicate, data-type
 - The fastest way of checking this at a glance is by applying **filter** to all the columns and looking at the filter values.
 
-https://www.notion.so/DATA-ANALYTICS-e70755e69b834e52a24b4a0c33da0f48?pvs=4#28ca86894f4f462396bf2984e9e6cdac
+<img width="294" alt="Image" src="https://github.com/user-attachments/assets/787b4cd0-89e1-48a4-889f-b03578b3ef52" />
