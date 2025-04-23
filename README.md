@@ -1,7 +1,6 @@
 # Clothing-Store-Sales-Analysis-Excel
 Data cleaning | Pivot tables | VLookup
 
-- `Video tutorial link`: https://www.youtube.com/watch?v=gTK5rNhWJyA&list=PLRY-AYJzifh1p1YinaFw-VIqYYsPyRYi4&ab_channel=RishabhMishra
 - `Problem statement`: Vrinda Store wants to create an annual sales report for 2022. So that, they can understand their customers and grow more sales in 2023
 - `Skills used`: Data cleaning, Data processing, Data analysis, Business Problem Solving
 
